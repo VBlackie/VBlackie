@@ -46,7 +46,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/45616834/131924614-a0cc7e86-b242-409b-a1bc-76920d0e696d.gif)
 
 &nbsp;
 
