@@ -20,15 +20,14 @@ I am also a **Mechatronics Engineer** currently pursuing my **master’s degree 
 ---
 ## 🔧 Technical Skills
 
-### 🖥️ Data Engineering
-**Languages:** Python, SQL
-**Technologies:** Apache Airflow, Docker, PostgreSQL, Pandas, AWS, GCP
-**ETL Tools:** FastAPI, Web Scraping, REST APIs
-**Visualization:** Looker Studio, Matplotlib, Power Bi, Canva
-### ⚙️ Mechatronics Engineering
-**PLC Programming:** Allen-Bradley (Studio 5000, FactoryTalk View)
-**Protocols:** Ethernet/IP, OPC UA
-**HMI Development:** FactoryTalk View Studio, Ignition
+### 💻 Technical Skills
+- Programming Languages: Python, SQL, JSON (structure and processing)
+- Data Engineering Tools: Apache Airflow, Docker, PostgreSQL, APIs (OpenLibrary, Google Books, Slack), Google Cloud Console
+- Data Analysis & Visualization: Matplotlib, Seaborn, Jupyter Notebooks, Looker Studio, Power BI
+- ETL Processes: Robust pipeline creation, validation, and logging
+- Automation: PLC programming (Rockwell Automation), HMI screen generation
+- Version Control: Git/GitHub
+- Soft Skills: Problem-solving, storytelling through data, adaptable to new tools and platforms
 
 ---
 ## 📂 Highlighted Projects
