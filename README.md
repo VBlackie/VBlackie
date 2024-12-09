@@ -51,6 +51,7 @@ A statistical exploration of whale strandings across the USA over a span of 10 y
 
 ### 🏈 NFL Weekly Matchup Analysis (Data Engineering & Analysis)
 An automated pipeline designed for data extraction, transformation, and visualization of NFL game stats and schedules. Built with Python, this project incorporates tools like Excel, Google APIs, and Looker Studio to create dynamic dashboards. The pipeline features a portable HTML dashboard for monitoring progress and uses email notifications to keep stakeholders informed.
+[View Project Repository](https://github.com/VBlackie/NFL-Weekly-Data-2024)
 
 🏆 Key Features:
 - Web scraping for live data extraction.
